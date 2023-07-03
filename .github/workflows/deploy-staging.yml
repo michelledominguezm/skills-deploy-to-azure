@@ -13,8 +13,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: michelledominguezm-azure-ttt
-  AZURE_WEBAPP_NAME: michelledominguezm-ttt-app
+  DOCKER_IMAGE_NAME: michelledominguez-azure-ttt
+  AZURE_WEBAPP_NAME: michelledominguez-ttt-app
   ###############################################
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
